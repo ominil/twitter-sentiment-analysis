@@ -7,3 +7,6 @@ Application to retrieve tweets and compute the sentiment of it
 ```shell
 & docker-compose -f docker-compose.yml up -d
 ```
+
+
+<!-- TODO follow guidelines on README design -->
